@@ -1,0 +1,36 @@
+대상: 라임로봇
+
+테스트 스코어 Rank 1
+스코어: 1.08592012339
+대/중/소/세 정확도: 0.923/0.876/0.866/0.889
+GitHub: https://github.com/lime-robot/product-categories-classification 13
+최우수: baseIine
+
+테스트 스코어 Rank 2
+스코어: 1.0786138900680604
+대/중/소/세 정확도: 0.916/0.869/0.862/0.883
+GitHub: https://github.com/tantara/kakao-arena-product-classification 6
+최우수: Zero
+
+테스트 스코어 Rank 4
+스코어: 1.07406150131
+대/중/소/세 정확도: 0.916/0.869/0.858/0.873
+GitHub: https://github.com/ywkim/kakao-arena-shopping 5
+우수: 박준우
+
+테스트 스코어 Rank 6
+스코어: 1.07003152658
+대/중/소/세 정확도: 0.910/0.862/0.853/0.877
+GitHub: https://github.com/junwoopark92/kakao_shopping_classification 1
+우수: nyanye
+
+테스트 스코어: Rank 7
+스코어: 1.06715880055
+대/중/소/세 정확도: 0.907/0.859/0.854/0.872
+GitHub: https://github.com/nyanye/catekitten 4
+우수: 제로콜라
+
+테스트 스코어: Rank 8
+스코어: 1.066355415
+대/중/소/세 정확도: 0.913/0.865/0.847/0.867
+GitHub: https://github.com/zero-cola/Kakao-Arena-2019 5
